@@ -1,0 +1,11 @@
+﻿  Bicycle.cpp
+C:\Users\hp\source\repos\Project12\Project12\Bicycle.h(13,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\hp\source\repos\Project12\Project12\Bicycle.h(14,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\hp\source\repos\Project12\Project12\Bicycle.h(30,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+C:\Users\hp\source\repos\Project12\Project12\Bicycle.h(13,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\hp\source\repos\Project12\Project12\Bicycle.h(14,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\hp\source\repos\Project12\Project12\Bicycle.h(30,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hp\source\repos\Project12\Project12\main.h(14,27): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  Project12.vcxproj -> C:\Users\hp\source\repos\Project12\Debug\Project12.exe
