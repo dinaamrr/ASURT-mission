@@ -39,7 +39,7 @@ if __name__ =='__main__':
     model = ImageNet()
     print(model)
 
-    input = torch.randn(10,13,164,334)
+    input = torch.randn(8,3,224,224)
     out = model(input)
     print(out.shape)
 
